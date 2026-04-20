@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gjnmbm/RPS-Javascript#readme",
   "devDependencies": {
-    "eslint": "^6.3.0"
+    "eslint": "^10.2.1"
   }
 }
